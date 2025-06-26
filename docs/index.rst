@@ -12,7 +12,7 @@ Roku devices have revolutionized home entertainment by providing easy access to 
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
-   :target: https://aclogportal.com/amc-plus-login
+   :target: https://aclogportal.com/roku-login
    :alt: Login Now Button
 
 This comprehensive guide will walk you through everything you need to know about logging into your Roku account, from initial setup to troubleshooting common issues.
